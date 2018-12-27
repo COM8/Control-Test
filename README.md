@@ -8,3 +8,6 @@ Currently hosts an UWP prjoct for reproducing [Windows UI Library #15](https://g
 2. Publish to your phone.
 3. Click on the `Add` button.
 4. A `ContentDialog` hosting a broken `ColorPicker` control will show up.
+
+## Example:
+<img src="https://i.imgur.com/kLKQMK4.png" width="400">
